@@ -6,9 +6,9 @@ color:
   saturation: 0.40809509973041713
   rhythmicContrast: 0.7991404782515019
   brandColors:
-    - '#004358'
-    - '#1F8A70'
-    - '#BEDB39'
-    - '#FFE11A'
-    - '#FD7400'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
 name: secret boutique
